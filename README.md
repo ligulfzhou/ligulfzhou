@@ -2,7 +2,7 @@
 
 I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a little frontend. and currently interested in Bitcoin₿, EthΞ and its L2s.
 
-I have write some scripts/projects in web3.
+I've created some scripts/projects in web3.
 
 - [zksync-farmer](https://github.com/ligulfzhou/zksync-farmer) scripts to farm zkSync and LayerZero.
 - [cosmos-farmer](https://github.com/ligulfzhou/cosmos-farmer) batch delegate atom.
