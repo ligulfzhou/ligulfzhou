@@ -3,7 +3,6 @@
 I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a little frontend. and currently interested in Bitcoin₿, EthΞ and its L2s.
 
 I've created some scripts/projects in web3.
-
 - [zksync-farmer](https://github.com/ligulfzhou/zksync-farmer) scripts to farm zkSync and LayerZero.
 - [cosmos-farmer](https://github.com/ligulfzhou/cosmos-farmer) batch delegate atom.
 - [bitcoin-related](https://github.com/ligulfzhou/bitcoin-related) scripts to split utxo, to batch mint Runes token, and to iterate bitcoin private keys, etc.
@@ -12,8 +11,8 @@ I've created some scripts/projects in web3.
 - [PixelKnights.art](https://www.pixelknights.art) NFT collection on Solana blockchain
 - SeemsRare.org(Dead) NFT rarity ranking site
 
-I'm currently **seeking job opportunities**👨‍💻 and would appreciate it if you could get in touch with me.
 
+### I'm currently **seeking job opportunities**👨‍💻 and would appreciate it if you could get in touch with me.
 Contact me via 📫 ligulfzhou53@gmail.com
 
 <!--
