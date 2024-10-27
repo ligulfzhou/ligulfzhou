@@ -6,7 +6,7 @@ I've created some scripts/projects in web3.
 - [zksync-farmer](https://github.com/ligulfzhou/zksync-farmer) scripts to farm zkSync and LayerZero.
 - [cosmos-farmer](https://github.com/ligulfzhou/cosmos-farmer) scripts to batch delegate atom.
 - [bitcoin-related](https://github.com/ligulfzhou/bitcoin-related) scripts to split utxo, to recursively mint Runes token, and to iterate bitcoin private keys, etc.
-- [l0lab.xyz](https://www.l0lab.xyz/) bridge nft among different chains powered by LayerZero.
+- [l0lab.xyz](https://l0lab-xyz.vercel.app/) bridge nft among different chains powered by LayerZero.
 - [L2sybils.xyz](https://www.l2sybils.xyz) Site to share some python scripts to farm zkSync
 - [PixelKnights.art](https://www.pixelknights.art) NFT collection on Solana blockchain
 - SeemsRare.org(Dead) NFT rarity ranking site
