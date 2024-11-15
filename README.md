@@ -2,6 +2,11 @@
 
 I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a little frontend Next.js and Swift.
 
+Pump.fun scripts.
+- [pump-fun-token-launcher](https://github.com/ligulfzhou/pump-fun-token-launcher) launch pump.fun token with rust
+- script to buy token and sell token on pump.fun, will open source soon...
+
+
 Some Scripts in web3.
 - [zksync-farmer](https://github.com/ligulfzhou/zksync-farmer) scripts to farm zkSync and LayerZero.
 - [cosmos-farmer](https://github.com/ligulfzhou/cosmos-farmer) scripts to batch delegate atom.
