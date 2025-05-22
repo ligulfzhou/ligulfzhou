@@ -24,7 +24,7 @@ Some iOS app.
 - [L2 Sybils](https://apps.apple.com/us/app/l2-sybils/id6448769452) share some auto-farming scripts.
 
 
-### I'm currently **seeking job opportunities**👨‍💻 and would appreciate it if you could get in touch with me.
+### I'm currently **seeking remote job opportunities**👨‍💻 and would appreciate it if you could get in touch with me.
 Contact me via 📫 ligulfzhou53@gmail.com
 
 <!--
