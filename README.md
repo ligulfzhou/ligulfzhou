@@ -3,9 +3,9 @@
 I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a little frontend Next.js and Swift.
 
 Arbitrage Bot.
-- Solana:
+- Solana: discontinued.
 - Sui: [contract](https://suiscan.xyz/mainnet/object/0x9faa24d58f0397999ad7b1d957e6035b5eb7e4bd3a6a2507a8ecde7c88a03c99/contracts)
-- Fuel: [contract](https://app.fuel.network/contract/0xa5241e6c8d5c5950bc42a862c8dbcd5182a0145f21f9c13aed245a328a506c14/transactions)
+- Fuel: [contract](https://app.fuel.network/contract/0xa5241e6c8d5c5950bc42a862c8dbcd5182a0145f21f9c13aed245a328a506c14/code)
 
 Pump.fun scripts.
 - [pump-fun-token-launcher](https://github.com/ligulfzhou/pump-fun-token-launcher) launch pump.fun token with rust
