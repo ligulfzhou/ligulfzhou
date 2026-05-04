@@ -8,6 +8,7 @@ Arbitrage Bot.
 - Fuel: [contract](https://app.fuel.network/contract/0xa5241e6c8d5c5950bc42a862c8dbcd5182a0145f21f9c13aed245a328a506c14/code)
 - Aptos: [contract](https://explorer.aptoslabs.com/account/0xd517063b5944870d1dffce82ce87f6b6269d7ada7d6394fede217ee729057be4/transactions?network=mainnet&page=%221%22)
 - Stellar: [contract](https://stellar.expert/explorer/public/contract/CDCAZUHZ646FRANKC7MG5TGVVHBDYY3MV4WV7PDUJSHQRGKFVMXM3LRE)
+- Flare: [contract](https://flare-explorer.flare.network/address/0xbDDAABe4276ff7bC24CA16A4567F4988CF897929)
 
 Pump.fun scripts.
 - [pump-fun-token-launcher](https://github.com/ligulfzhou/pump-fun-token-launcher) launch pump.fun token with rust
