@@ -2,6 +2,12 @@
 
 I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a little frontend Next.js and Swift.
 
+#### Stellar blockchain.
+- Atomic arbitrage bot(not open source), [contract](https://stellar.expert/explorer/public/contract/CDCAZUHZ646FRANKC7MG5TGVVHBDYY3MV4WV7PDUJSHQRGKFVMXM3LRE)
+- Dex Aggregator, [site](https://www.lumagg.xyz/), [source code](https://github.com/Lum-Agg/stellar-dex-agg)
+- Mobile-first multisig treasury signer for Stellar Soroban, [source code](https://github.com/ligulfzhou/stellar-mobile-first-multisig-signer)
+- UTXO-style private payment, for [Stellar Hackathon: Real-World ZK](https://dorahacks.io/hackathon/stellar-hacks-zk/detail). [source code](https://github.com/ligulfzhou/stellar-zk-notes)
+
 Atomic Arbitrage Bot.
 - Solana: discontinued.
 - Sui: [contract](https://suiscan.xyz/mainnet/object/0x9faa24d58f0397999ad7b1d957e6035b5eb7e4bd3a6a2507a8ecde7c88a03c99/contracts)
