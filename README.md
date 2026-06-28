@@ -6,7 +6,7 @@ I'm a backend developer, mainly coding in Rust🦀 and Python3🐍, also a littl
 - Atomic arbitrage bot(not open source), [contract](https://stellar.expert/explorer/public/contract/CDCAZUHZ646FRANKC7MG5TGVVHBDYY3MV4WV7PDUJSHQRGKFVMXM3LRE)
 - Dex Aggregator, [site](https://www.lumagg.xyz/), [source code](https://github.com/Lum-Agg/stellar-dex-agg)
 - Mobile-first multisig treasury signer for Stellar Soroban, [source code](https://github.com/ligulfzhou/stellar-mobile-first-multisig-signer)
-- UTXO-style private payment, for [Stellar Hackathon: Real-World ZK](https://dorahacks.io/hackathon/stellar-hacks-zk/detail). [source code](https://github.com/ligulfzhou/stellar-zk-notes)
+- Tornado-style privacy pools on Stellar Soroban, for [Stellar Hackathon: Real-World ZK](https://dorahacks.io/hackathon/stellar-hacks-zk/detail). [source code](https://github.com/ligulfzhou/stellar-zk-tornado)
 
 Atomic Arbitrage Bot.
 - Solana: discontinued.
